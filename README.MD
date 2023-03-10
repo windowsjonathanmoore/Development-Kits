@@ -20,6 +20,8 @@
 
 [DirectX SDK's](https://archive.org/details/directxsdks)
 
+[Windows Mobile SDKs (collection)](https://archive.org/details/WMSDK)
+
 [Windows SDK & DDK](https://winworldpc.com/product/windows-sdk-ddk/windows-1x)
 
 [Platform SDK from Microsoft Windows Server 2003 with Service Pack 1](https://archive.org/details/platform-sdk-from-microsoft-windows-server-2003-with-service-pack-1-april-2005-edition-english)
