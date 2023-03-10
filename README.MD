@@ -14,7 +14,9 @@
 
 [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/)
 
-[DirectX Sdk's](https://archive.org/details/directxsdks)
+[OLder DDK's](https://learn.microsoft.com/en-us/windows-hardware/drivers/other-wdk-downloads)
+
+[DirectX SDK's](https://archive.org/details/directxsdks)
 
 [Windows SDK & DDK](https://winworldpc.com/product/windows-sdk-ddk/windows-1x)
 
