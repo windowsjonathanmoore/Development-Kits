@@ -12,6 +12,8 @@
 
 [DirectX Sdk's](https://archive.org/details/directxsdks)
 
+[Windows SDK & DDK](https://winworldpc.com/product/windows-sdk-ddk/windows-1x)
+
 [MSDN SDKs DDKs And Operating Systems, October 1994](https://archive.org/details/MSDNOctober1994)
 
 
