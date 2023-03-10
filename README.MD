@@ -1,4 +1,9 @@
 
+## Jazz Computer 
+
+[Jazz](https://dbpedia.org/page/Jazz_(computer))
+
+
 ## SDK and DDKs
 
 [DirectX Sdk's](https://archive.org/details/directxsdks)
