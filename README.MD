@@ -12,6 +12,8 @@
 
 # SDK and DDKs
 
+[Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/)
+
 [DirectX Sdk's](https://archive.org/details/directxsdks)
 
 [Windows SDK & DDK](https://winworldpc.com/product/windows-sdk-ddk/windows-1x)
