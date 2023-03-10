@@ -28,6 +28,8 @@
 
 [MSDN SDKs DDKs And Operating Systems, October 1994](https://archive.org/details/MSDNOctober1994)
 
+[Microsoft Third Party Discloures](https://thirdpartysource.microsoft.com/)
+
 
 # Longhorn Pre and Post Reset
 
