@@ -5,3 +5,7 @@
 [PDC 2003 Conference DVDs (Presentation and Longhorn Discs)](https://archive.org/details/pdc-2003-conference-dvds-presentation-and-longhorn-discs)
 
 [Microsoft PDC 2003 DVD3 Visual Studio "Whidbey" Technology Preview DVD](https://archive.org/details/vsenard1)
+
+[Yukon]()
+
+[Longhorn Activation Cracks](https://longhorn.ms/activation-cracks/)
