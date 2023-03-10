@@ -34,6 +34,7 @@
 ## Pre Reset in Longhorn
 
 [Winlogon and GINA](https://learn.microsoft.com/en-us/windows/win32/secauthn/winlogon-and-gina)
+
 [Replace Windows logon ui (gina) with a win32 application](https://superuser.com/questions/456409/replace-windows-logon-ui-gina-with-a-win32-application)
 
 
