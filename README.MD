@@ -1,9 +1,9 @@
-## OS/2
+## IBM OS/2
 
 [IBM OS/2](https://en.wikipedia.org/wiki/OS/2)
 
 
-## Jazz Computer 
+## Microsoft Jazz Computer 
 
 [Microsoft Jazz Computer](https://dbpedia.org/page/Jazz_(computer))
 
