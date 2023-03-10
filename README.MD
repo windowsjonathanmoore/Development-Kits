@@ -5,7 +5,7 @@
 
 ## Jazz Computer 
 
-[Microsoft Jazz](https://dbpedia.org/page/Jazz_(computer))
+[Microsoft Jazz Computer](https://dbpedia.org/page/Jazz_(computer))
 
 
 ## SDK and DDKs
