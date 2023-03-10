@@ -1,3 +1,7 @@
+## OS/2
+
+[IBM OS/2](https://en.wikipedia.org/wiki/OS/2)
+
 
 ## Jazz Computer 
 
