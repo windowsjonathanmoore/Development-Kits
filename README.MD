@@ -4,6 +4,8 @@
 
 [IBM OS/2](https://en.wikipedia.org/wiki/OS/2)
 
+[OS/2 Virual Machines](https://gekk.info/articles/os2.html)
+
 
 # Microsoft Jazz Computer 
 
