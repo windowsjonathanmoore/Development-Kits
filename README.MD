@@ -14,6 +14,8 @@
 
 [Windows SDK & DDK](https://winworldpc.com/product/windows-sdk-ddk/windows-1x)
 
+[Platform SDK from Microsoft Windows Server 2003 with Service Pack 1](https://archive.org/details/platform-sdk-from-microsoft-windows-server-2003-with-service-pack-1-april-2005-edition-english)
+
 [MSDN SDKs DDKs And Operating Systems, October 1994](https://archive.org/details/MSDNOctober1994)
 
 
