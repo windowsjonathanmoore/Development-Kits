@@ -31,7 +31,7 @@
 
 [Longhorn Activation Cracks](https://longhorn.ms/activation-cracks/)
 
-##
+## Pre Reset in Longhorn
 
 [Winlogon and GINA](https://learn.microsoft.com/en-us/windows/win32/secauthn/winlogon-and-gina)
 
