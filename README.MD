@@ -41,6 +41,8 @@
 
 [Microsoft Third Party Discloures](https://thirdpartysource.microsoft.com/)
 
+[Mark Russinovich Find the Hole Fantasy novel's Windows is for you and your girl](https://us.macmillan.com/author/markrussinovich)
+
 
 # Longhorn Pre and Post Reset
 
